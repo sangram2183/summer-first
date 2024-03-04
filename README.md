@@ -1,3 +1,3 @@
 # summer-first
 my first project
-chalo project bnaye
+chalo project bnayemit
