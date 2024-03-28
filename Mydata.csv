@@ -1,104 +1,104 @@
 S.NO.,first_name,last_name,email,gender,First Year Marks,Second Year Marks,Third Year Marks,Course,Language,Country,Parental Education
-1,Anatola,Mathewson,amathewson0@1und1.de,Genderfluid,94,61,55,Product Management,Somali,Russia,false
+1,Anatola,Mathewson,amathewson0@1und1.de,Genderfluid,94,61,75,Product Management,Somali,Russia,false
 2,Fanni,Adran,fadran1@xinhuanet.com,Female,76,87,92,Human Resources,Macedonian,Russia,false
-3,Dick,Claisse,dclaisse2@php.net,Male,70,100,77,Human Resources,Māori,Russia,false
-4,Yoshi,Lowfill,ylowfill3@usda.gov,Female,73,98,57,Sales,Spanish,Russia,false
+3,Dick,Claisse,dclaisse2@php.net,Male,70,100,87,Human Resources,Māori,Russia,false
+4,Yoshi,Lowfill,ylowfill3@usda.gov,Female,73,98,77,Sales,Spanish,Russia,false
 5,Romy,Reisenberg,rreisenberg4@mit.edu,Female,86,58,91,Engineering,Tetum,Russia,false
 6,Kacie,Tranmer,ktranmer5@feedburner.com,Female,50,58,50,Legal,Zulu,Russia,false
-7,Benita,Jellings,bjellings6@feedburner.com,Female,100,99,57,Sales,Ndebele,United States,true
-8,Daloris,Keeffe,dkeeffe7@prweb.com,Female,95,81,64,Human Resources,Telugu,Russia,false
+7,Benita,Jellings,bjellings6@feedburner.com,Female,100,99,87,Sales,Ndebele,United States,true
+8,Daloris,Keeffe,dkeeffe7@prweb.com,Female,95,81,84,Human Resources,Telugu,Russia,false
 9,Trude,Jills,tjills8@google.fr,Female,78,94,74,Marketing,Polish,Russia,true
-10,Town,Drayson,tdrayson9@bizjournals.com,Male,87,82,58,Business Development,Thai,Russia,true
+10,Town,Drayson,tdrayson9@bizjournals.com,Male,87,82,88,Business Development,Thai,Russia,true
 11,Boone,Tuiller,btuillera@businessinsider.com,Male,59,74,61,Human Resources,Oriya,Russia,false
-12,Letty,Emslie,lemslieb@qq.com,Female,70,99,58,Services,Armenian,United Kingdom,true
-13,Marion,O'Geaney,mogeaneyc@jalbum.net,Female,96,65,83,Sales,Hiri Motu,Russia,false
+12,Letty,Emslie,lemslieb@qq.com,Female,70,79,68,Services,Armenian,United Kingdom,true
+13,Marion,O'Geaney,mogeaneyc@jalbum.net,Female,96,85,83,Sales,Hiri Motu,Russia,false
 14,Rebekah,Barthrop,rbarthropd@mtv.com,Female,52,77,52,Marketing,Lao,United States,true
-15,Vernon,Mordin,vmordine@indiatimes.com,Male,80,59,87,Services,Mongolian,United States,true
+15,Vernon,Mordin,vmordine@indiatimes.com,Male,80,79,87,Services,Mongolian,United States,true
 16,Adey,Canter,acanterf@columbia.edu,Genderqueer,51,58,63,Human Resources,Tajik,Russia,false
-17,Thane,Mattusevich,tmattusevichg@skype.com,Male,69,89,63,Services,Hungarian,United States,true
+17,Thane,Mattusevich,tmattusevichg@skype.com,Male,69,73,63,Services,Hungarian,United States,true
 18,Minette,Audsley,maudsleyh@wordpress.org,Genderqueer,69,57,60,Sales,Irish Gaelic,United States,false
 19,Bail,Natt,bnatti@w3.org,Male,62,65,82,Product Management,German,Russia,true
-20,Gifford,Grinham,ggrinhamj@goo.gl,Bigender,52,85,94,Support,Latvian,Russia,false
-21,Boyd,Jaggers,bjaggersk@jugem.jp,Male,74,53,81,Engineering,Filipino,Russia,false
-22,Egor,Bernon,ebernonl@slideshare.net,Male,75,91,54,Business Development,Zulu,Kazakhstan,true
-23,Putnam,Krystof,pkrystofm@bbb.org,Male,83,65,59,Engineering,French,United States,false
+20,Gifford,Grinham,ggrinhamj@goo.gl,Bigender,82,85,94,Support,Latvian,Russia,false
+21,Boyd,Jaggers,bjaggersk@jugem.jp,Male,74,73,81,Engineering,Filipino,Russia,false
+22,Egor,Bernon,ebernonl@slideshare.net,Male,75,81,84,Business Development,Zulu,Kazakhstan,true
+23,Putnam,Krystof,pkrystofm@bbb.org,Male,83,75,79,Engineering,French,United States,false
 24,Karlyn,Basketter,kbaskettern@nyu.edu,Female,97,83,98,Accounting,Gagauz,Russia,true
 25,Bran,Ochterlony,bochterlonyo@mit.edu,Male,58,51,53,Human Resources,Catalan,Russia,false
-26,Lucias,Eakeley,leakeleyp@zimbio.com,Male,68,73,56,Accounting,German,United States,true
+26,Lucias,Eakeley,leakeleyp@zimbio.com,Male,68,73,76,Accounting,German,United States,true
 27,Blaine,Cloake,bcloakeq@freewebs.com,Male,73,54,57,Services,Belarusian,United States,true
-28,Daveta,Healy,dhealyr@wufoo.com,Female,83,93,57,Legal,Bulgarian,Russia,false
-29,Caro,Strutton,cstruttons@walmart.com,Female,100,80,63,Business Development,Māori,United States,false
-30,Wait,Woolstenholmes,wwoolstenholmest@pagesperso-orange.fr,Male,90,71,58,Support,New Zealand Sign Language,Russia,false
+28,Daveta,Healy,dhealyr@wufoo.com,Female,83,93,87,Legal,Bulgarian,Russia,false
+29,Caro,Strutton,cstruttons@walmart.com,Female,100,90,93,Business Development,Māori,United States,false
+30,Wait,Woolstenholmes,wwoolstenholmest@pagesperso-orange.fr,Male,90,81,88,Support,New Zealand Sign Language,Russia,false
 31,Tatum,Shellsheere,tshellsheereu@google.fr,Non-binary,55,60,60,Engineering,Pashto,United States,false
 32,Alma,MacKall,amackallv@uol.com.br,Female,87,89,91,Accounting,Punjabi,Russia,false
-33,Katusha,Hedgecock,khedgecockw@google.co.jp,Female,80,79,55,Legal,Swati,Russia,true
+33,Katusha,Hedgecock,khedgecockw@google.co.jp,Female,80,79,75,Legal,Swati,Russia,true
 34,Tove,Bamb,tbambx@studiopress.com,Genderqueer,89,90,87,Training,Finnish,Russia,true
-35,Lorrin,Landal,llandaly@amazon.co.uk,Genderqueer,80,58,92,Legal,French,United States,true
-36,Dall,Scini,dsciniz@amazonaws.com,Male,83,67,54,Training,West Frisian,Russia,true
-37,Hoyt,Selliman,hselliman10@tamu.edu,Male,73,53,54,Human Resources,Tswana,Russia,false
-38,Farrell,Jumel,fjumel11@usnews.com,Male,77,61,99,Business Development,Zulu,Russia,true
-39,Orsola,Rohlf,orohlf12@networkadvertising.org,Bigender,54,54,94,Training,Portuguese,Russia,true
-40,Pandora,Cowope,pcowope13@businessinsider.com,Female,78,70,98,Research and Development,Northern Sotho,Kazakhstan,true
-41,Gal,Woods,gwoods14@istockphoto.com,Male,94,85,77,Support,Gujarati,Russia,false
+35,Lorrin,Landal,llandaly@amazon.co.uk,Genderqueer,80,88,92,Legal,French,United States,true
+36,Dall,Scini,dsciniz@amazonaws.com,Male,83,87,74,Training,West Frisian,Russia,true
+37,Hoyt,Selliman,hselliman10@tamu.edu,Male,73,63,74,Human Resources,Tswana,Russia,false
+38,Farrell,Jumel,fjumel11@usnews.com,Male,77,81,89,Business Development,Zulu,Russia,true
+39,Orsola,Rohlf,orohlf12@networkadvertising.org,Bigender,54,54,64,Training,Portuguese,Russia,true
+40,Pandora,Cowope,pcowope13@businessinsider.com,Female,78,70,78,Research and Development,Northern Sotho,Kazakhstan,true
+41,Gal,Woods,gwoods14@istockphoto.com,Male,94,85,87,Support,Gujarati,Russia,false
 42,Lia,Goodlet,lgoodlet15@slate.com,Female,61,60,50,Engineering,Papiamento,United States,true
 43,Ellette,Yankin,eyankin16@si.edu,Bigender,79,65,62,Engineering,Amharic,Russia,true
-44,Marylou,Hanstock,mhanstock17@thetimes.co.uk,Female,51,71,86,Services,Afrikaans,Russia,true
-45,Lisa,Pavy,lpavy18@ameblo.jp,Female,70,65,97,Marketing,Kyrgyz,Russia,true
-46,Cassius,Sherme,csherme19@cnbc.com,Non-binary,53,87,82,Research and Development,New Zealand Sign Language,Russia,false
-47,Merna,Rowlin,mrowlin1a@wiley.com,Genderqueer,62,97,57,Accounting,Greek,Russia,true
-48,Somerset,Takle,stakle1b@reference.com,Male,70,81,66,Services,Tswana,Russia,false
-49,Caresa,Ewbanke,cewbanke1c@clickbank.net,Genderqueer,63,61,83,Human Resources,Irish Gaelic,Kazakhstan,true
+44,Marylou,Hanstock,mhanstock17@thetimes.co.uk,Female,81,71,86,Services,Afrikaans,Russia,true
+45,Lisa,Pavy,lpavy18@ameblo.jp,Female,70,65,77,Marketing,Kyrgyz,Russia,true
+46,Cassius,Sherme,csherme19@cnbc.com,Non-binary,83,87,82,Research and Development,New Zealand Sign Language,Russia,false
+47,Merna,Rowlin,mrowlin1a@wiley.com,Genderqueer,62,67,57,Accounting,Greek,Russia,true
+48,Somerset,Takle,stakle1b@reference.com,Male,70,81,76,Services,Tswana,Russia,false
+49,Caresa,Ewbanke,cewbanke1c@clickbank.net,Genderqueer,63,61,63,Human Resources,Irish Gaelic,Kazakhstan,true
 50,Farrah,Guiver,fguiver1d@taobao.com,Female,79,55,64,Accounting,Irish Gaelic,Russia,false
-51,Morrie,Element,melement1e@meetup.com,Male,74,79,98,Legal,New Zealand Sign Language,Russia,true
-52,Xymenes,Folca,xfolca1f@microsoft.com,Male,67,94,100,Support,Lao,Russia,true
-53,Kenon,Tassell,ktassell1g@imgur.com,Non-binary,72,78,52,Services,Zulu,Russia,true
-54,Carolee,Raper,craper1h@ox.ac.uk,Female,90,71,98,Sales,Lao,Russia,true
-55,Robbie,Rosenqvist,rrosenqvist1i@photobucket.com,Female,86,92,65,Services,Nepali,United States,false
-56,Tymothy,Dimitriou,tdimitriou1j@edublogs.org,Male,86,72,62,Product Management,French,United States,true
+51,Morrie,Element,melement1e@meetup.com,Male,74,79,78,Legal,New Zealand Sign Language,Russia,true
+52,Xymenes,Folca,xfolca1f@microsoft.com,Male,97,94,100,Support,Lao,Russia,true
+53,Kenon,Tassell,ktassell1g@imgur.com,Non-binary,72,78,82,Services,Zulu,Russia,true
+54,Carolee,Raper,craper1h@ox.ac.uk,Female,90,91,98,Sales,Lao,Russia,true
+55,Robbie,Rosenqvist,rrosenqvist1i@photobucket.com,Female,86,92,85,Services,Nepali,United States,false
+56,Tymothy,Dimitriou,tdimitriou1j@edublogs.org,Male,86,72,82,Product Management,French,United States,true
 57,Wilburt,Ventham,wventham1k@narod.ru,Agender,74,78,70,Services,Hiri Motu,United States,true
-58,Aubert,Staner,astaner1l@latimes.com,Male,96,83,54,Services,Burmese,United States,false
-59,Loydie,Rubinowitsch,lrubinowitsch1m@1und1.de,Male,92,58,84,Training,Telugu,Russia,false
-60,Isador,Stubbe,istubbe1n@4shared.com,Male,87,58,80,Training,New Zealand Sign Language,Russia,true
-61,Adelind,Maplethorp,amaplethorp1o@wp.com,Genderfluid,88,65,76,Accounting,Georgian,Russia,false
-62,Hertha,Cottie,hcottie1p@blogspot.com,Genderqueer,67,68,89,Marketing,Bosnian,Russia,true
-63,Anselma,Whistance,awhistance1q@sfgate.com,Female,83,55,84,Legal,Luxembourgish,Russia,false
+58,Aubert,Staner,astaner1l@latimes.com,Male,96,83,84,Services,Burmese,United States,false
+59,Loydie,Rubinowitsch,lrubinowitsch1m@1und1.de,Male,92,88,84,Training,Telugu,Russia,false
+60,Isador,Stubbe,istubbe1n@4shared.com,Male,87,88,80,Training,New Zealand Sign Language,Russia,true
+61,Adelind,Maplethorp,amaplethorp1o@wp.com,Genderfluid,88,75,76,Accounting,Georgian,Russia,false
+62,Hertha,Cottie,hcottie1p@blogspot.com,Genderqueer,67,68,79,Marketing,Bosnian,Russia,true
+63,Anselma,Whistance,awhistance1q@sfgate.com,Female,83,75,84,Legal,Luxembourgish,Russia,false
 64,Juanita,Fandrich,jfandrich1r@pagesperso-orange.fr,Female,81,91,75,Training,Tsonga,United States,true
 65,Ruby,Glaum,rglaum1s@google.ru,Female,98,78,83,Sales,Korean,United States,false
 66,Pietrek,Attride,pattride1t@wunderground.com,Male,89,87,78,Legal,Kazakh,United States,true
-67,Linn,Joron,ljoron1u@amazonaws.com,Female,100,63,86,Human Resources,Romanian,Russia,true
+67,Linn,Joron,ljoron1u@amazonaws.com,Female,100,93,86,Human Resources,Romanian,Russia,true
 68,Riki,Hassey,rhassey1v@si.edu,Polygender,75,63,78,Services,Yiddish,United States,true
 69,Celestina,Vitte,cvitte1w@psu.edu,Female,60,50,76,Marketing,Swahili,Russia,false
 70,Odilia,Sibun,osibun1x@reuters.com,Female,69,76,70,Services,Georgian,United States,false
 71,Luisa,Lipscomb,llipscomb1y@cbslocal.com,Non-binary,83,90,98,Product Management,Somali,United States,true
 72,Kevin,Duigan,kduigan1z@umich.edu,Male,66,79,77,Research and Development,West Frisian,Russia,false
 73,Loydie,Vlasin,lvlasin20@netscape.com,Male,66,82,68,Business Development,Aymara,Russia,false
-74,Ellette,Bullick,ebullick21@rediff.com,Female,76,96,92,Support,Burmese,Russia,false
-75,Creigh,Felgate,cfelgate22@tumblr.com,Male,63,92,77,Training,Gagauz,Russia,false
+74,Ellette,Bullick,ebullick21@rediff.com,Female,96,96,92,Support,Burmese,Russia,false
+75,Creigh,Felgate,cfelgate22@tumblr.com,Male,63,72,77,Training,Gagauz,Russia,false
 76,Clay,Whitewood,cwhitewood23@netvibes.com,Bigender,91,76,83,Product Management,Maltese,Russia,true
-77,Lyndel,Keer,lkeer24@pbs.org,Female,71,62,97,Marketing,Indonesian,Russia,true
-78,Layney,Cran,lcran25@goodreads.com,Female,99,95,54,Product Management,Persian,Russia,false
-79,Brandise,Aysik,baysik26@washington.edu,Female,89,61,72,Engineering,Kurdish,United States,true
+77,Lyndel,Keer,lkeer24@pbs.org,Female,71,82,97,Marketing,Indonesian,Russia,true
+78,Layney,Cran,lcran25@goodreads.com,Female,99,95,94,Product Management,Persian,Russia,false
+79,Brandise,Aysik,baysik26@washington.edu,Female,79,61,72,Engineering,Kurdish,United States,true
 80,Parnell,Kensitt,pkensitt27@networksolutions.com,Male,68,83,68,Support,Kashmiri,United States,true
 81,Emelen,Shelton,eshelton28@prnewswire.com,Male,78,87,69,Human Resources,Pashto,United States,true
 82,Thoma,Marsh,tmarsh29@go.com,Male,57,88,57,Human Resources,Punjabi,Russia,false
-83,Druci,Worcs,dworcs2a@dmoz.org,Female,91,70,69,Accounting,Tetum,Russia,false
-84,Rosalind,Gherardini,rgherardini2b@tmall.com,Female,83,79,62,Business Development,Tswana,Russia,false
-85,Verla,Woodford,vwoodford2c@home.pl,Female,70,52,80,Human Resources,Dzongkha,Russia,false
-86,Yard,Gley,ygley2d@zdnet.com,Male,68,95,70,Support,French,Russia,false
-87,Kellby,Carren,kcarren2e@tiny.cc,Male,100,73,92,Legal,Albanian,Russia,false
+83,Druci,Worcs,dworcs2a@dmoz.org,Female,91,70,89,Accounting,Tetum,Russia,false
+84,Rosalind,Gherardini,rgherardini2b@tmall.com,Female,83,79,82,Business Development,Tswana,Russia,false
+85,Verla,Woodford,vwoodford2c@home.pl,Female,70,62,80,Human Resources,Dzongkha,Russia,false
+86,Yard,Gley,ygley2d@zdnet.com,Male,68,75,70,Support,French,Russia,false
+87,Kellby,Carren,kcarren2e@tiny.cc,Male,100,93,92,Legal,Albanian,Russia,false
 88,Carce,Peperell,cpeperell2f@altervista.org,Male,70,54,53,Engineering,Assamese,Russia,false
 89,Rudiger,Dumpleton,rdumpleton2g@vimeo.com,Male,79,87,61,Support,Icelandic,United States,true
-90,Ronda,Lardier,rlardier2h@amazonaws.com,Female,96,61,71,Services,Swati,Kazakhstan,false
-91,Nessie,Duffan,nduffan2i@indiatimes.com,Polygender,76,69,91,Human Resources,Dutch,Russia,true
-92,Anthony,Wrathall,awrathall2j@timesonline.co.uk,Male,92,74,54,Product Management,Portuguese,Russia,false
+90,Ronda,Lardier,rlardier2h@amazonaws.com,Female,76,61,71,Services,Swati,Kazakhstan,false
+91,Nessie,Duffan,nduffan2i@indiatimes.com,Polygender,76,69,81,Human Resources,Dutch,Russia,true
+92,Anthony,Wrathall,awrathall2j@timesonline.co.uk,Male,62,74,54,Product Management,Portuguese,Russia,false
 93,Amitie,Kobiela,akobiela2k@census.gov,Female,68,64,66,Research and Development,Dzongkha,Russia,true
-94,Hubie,Yakushkin,hyakushkin2l@cargocollective.com,Male,91,77,52,Research and Development,Hebrew,Russia,true
-95,Maxine,Zorzi,mzorzi2m@a8.net,Female,99,78,53,Product Management,Kyrgyz,Russia,false
-96,Desdemona,Pardew,dpardew2n@theatlantic.com,Female,79,56,76,Research and Development,Malay,United States,false
-97,Blane,Haldin,bhaldin2o@hc360.com,Male,65,79,96,Marketing,Croatian,Russia,true
+94,Hubie,Yakushkin,hyakushkin2l@cargocollective.com,Male,81,77,82,Research and Development,Hebrew,Russia,true
+95,Maxine,Zorzi,mzorzi2m@a8.net,Female,89,78,83,Product Management,Kyrgyz,Russia,false
+96,Desdemona,Pardew,dpardew2n@theatlantic.com,Female,79,66,76,Research and Development,Malay,United States,false
+97,Blane,Haldin,bhaldin2o@hc360.com,Male,65,79,76,Marketing,Croatian,Russia,true
 98,Aleece,Walne,awalne2p@amazon.co.uk,Female,75,86,74,Business Development,Hungarian,Russia,true
 99,Mag,Wittey,mwittey2q@goo.gl,Female,96,90,99,Support,Filipino,United States,false
-100,Constantin,Verrillo,cverrillo2r@alibaba.com,Male,62,85,66,Marketing,Luxembourgish,Russia,true
+100,Constantin,Verrillo,cverrillo2r@alibaba.com,Male,62,75,66,Marketing,Luxembourgish,Russia,true
 101,Roseanna,Roughley,rroughley2s@sun.com,Female,54,73,72,Support,Fijian,Russia,false
 102,Candida,Lovewell,clovewell2t@opensource.org,Female,56,92,61,Training,Yiddish,United States,false
 103,Susan,Jurczak,sjurczak2u@elegantthemes.com,Female,51,51,80,Product Management,Malay,Russia,false
